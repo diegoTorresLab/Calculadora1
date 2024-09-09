@@ -1,0 +1,10 @@
+C:\Users\diego\source\repos\EJERCICIO4-CALCULADORA1\bin\Debug\EJERCICIO4-CALCULADORA1.exe.config
+C:\Users\diego\source\repos\EJERCICIO4-CALCULADORA1\bin\Debug\EJERCICIO4-CALCULADORA1.exe
+C:\Users\diego\source\repos\EJERCICIO4-CALCULADORA1\bin\Debug\EJERCICIO4-CALCULADORA1.pdb
+C:\Users\diego\source\repos\EJERCICIO4-CALCULADORA1\obj\Debug\EJERCICIO4-CALCULADORA1.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\EJERCICIO4-CALCULADORA1\obj\Debug\EJERCICIO4_CALCULADORA1.Form1.resources
+C:\Users\diego\source\repos\EJERCICIO4-CALCULADORA1\obj\Debug\EJERCICIO4_CALCULADORA1.Properties.Resources.resources
+C:\Users\diego\source\repos\EJERCICIO4-CALCULADORA1\obj\Debug\EJERCICIO4-CALCULADORA1.csproj.GenerateResource.cache
+C:\Users\diego\source\repos\EJERCICIO4-CALCULADORA1\obj\Debug\EJERCICIO4-CALCULADORA1.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\EJERCICIO4-CALCULADORA1\obj\Debug\EJERCICIO4-CALCULADORA1.exe
+C:\Users\diego\source\repos\EJERCICIO4-CALCULADORA1\obj\Debug\EJERCICIO4-CALCULADORA1.pdb
